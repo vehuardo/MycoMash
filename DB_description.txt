@@ -1,0 +1,25 @@
+DB_content:
+
+All Mycobacterium assemblies included in representative genomes as of June 9th 2022
+https://www.ncbi.nlm.nih.gov/assembly
+
+To these, the following were added manually:
+
+Two random but recent assemblies for each of the three M. abscessus supspecies.
+
+The largest contig chunk (>2mbp) of Mycobacterium_farcinogenes_DSM43637 from nt database
+
+Mycobacteroides_chelonae_CCUG_47445.fasta
+
+GCF_003957335.1_Mycobacterium_avium_paratuberculosis.fna.gz
+GCF_009741445.1_Mycobacterium_avium_avium.fna.gz
+GCF_000696715_Mycobacterium_avium_hominissuis.fna.gz
+
+GCF_004721025.1_Mycobacterium_peregrinum.fna.gz
+
+
+
+
+# Sketch size 1000 (default)
+
+# check db content/structure with: # mash info Myco_db_v2.msh # or # mash info Myco_db_v2.msh | head -n 50  
