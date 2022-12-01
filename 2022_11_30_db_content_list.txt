@@ -1,0 +1,124 @@
+NC_022663.1 Mycobacterium kansasii ATCC 12478, complete sequence
+NZ_GG770676.1 Mycobacterium parascrofulaceum ATCC BAA-614 SCAFFOLD124, whole genome shotgun sequence
+NZ_AFVW02000018.1 Mycobacterium colombiense CECT 3035 contig00034, whole genome shotgun sequence
+NC_015848.1 Mycobacterium canettii CIPT 140010059, complete sequence
+NC_016946.1 Mycobacterium intracellulare ATCC 13950, complete sequence
+NZ_CP011883.2 Mycobacterium haemophilum DSM 44634 strain ATCC 29548 chromosome, complete genome
+NZ_JAGZ01000001.1 Mycobacterium genavense ATCC 51234 T428DRAFT_scaffold00001.1_C, whole genome shotgun sequence
+NZ_HG964936.1 Mycobacterium asiaticum DSM 44297, whole genome shotgun sequence
+NZ_AUZQ01000001.1 Mycobacterium avium subsp. hominissuis A5 contig001, whole genome shotgun sequence
+NZ_AUZQ01000001.1 Mycobacterium avium subsp. hominissuis A5 contig001, whole genome shotgun sequence
+NZ_CP083405.1 Mycobacterium lepromatosis strain FJ924 chromosome, complete genome
+NZ_LDPP01000001.1 Mycobacterium nebraskense strain AKUC2 contig_1, whole genome shotgun sequence
+NZ_LDPO01000001.1 Mycobacterium heraklionense strain Davo contig_1, whole genome shotgun sequence
+NZ_CVTB01000001.1 Mycolicibacterium malmesburyense strain WCM 7299, whole genome shotgun sequence
+NZ_CVTA01000001.1 Mycolicibacterium komanii strain GPK 1020, whole genome shotgun sequence
+NZ_CWKH01000001.1 Mycolicibacterium neworleansense strain ATCC 49404T, whole genome shotgun sequence
+NZ_CTEE01000001.1 Mycobacterium lentiflavum strain CSUR P1491, whole genome shotgun sequence
+NZ_CTEC01000001.1 Mycobacterium europaeum strain CSUR P1344, whole genome shotgun sequence
+NZ_LLXQ01000001.1 Mycobacterium kyorinense strain HF1629 scaffold1.1, whole genome shotgun sequence
+NZ_LQIR01000001.1 Mycobacterium lehmannii strain IS-1744 GCID_NTM_00011_NODE_1.ctg_1, whole genome shotgun sequence
+NZ_MIHB01000001.1 Mycobacterium intermedium strain HMC2_M5 PROKKA_contig000001, whole genome shotgun sequence
+NZ_MLQM01000001.1 Mycobacterium talmoniae strain MO-5499 PROKKA_contig000001, whole genome shotgun sequence
+NZ_MPNT01000001.1 Mycobacterium paraffinicum strain M11 NODE_1_length_557015_cov_8.14244_ID_451, whole genome shotgun sequence
+NZ_MLCL01000079.1 Mycobacterium syngnathidarum strain 27335 NODE_10_length_191633_cov_27.8143, whole genome shotgun sequence
+NZ_MVHG01000001.1 Mycobacterium arosiense ATCC BAA-1401 = DSM 45069 Mycobacterium_arosiense_DSM45069_contig1, whole genome shotgun sequence
+NZ_MVHE01000100.1 Mycobacterium angelicum strain DSM 45057 NODE_100_length_13724_cov_20.2438_ID_26523, whole genome shotgun sequence
+NZ_MVHL01000100.1 Mycobacterium bouchedurhonense strain DSM 45439 NODE_100_length_9756_cov_17.6236, whole genome shotgun sequence
+NZ_MVHF01000100.1 Mycobacterium aquaticum strain RW6 NODE_100_length_833_cov_259.335, whole genome shotgun sequence
+NZ_MVHD01000100.1 Mycobacterium alsense strain DSM 45230 NODE_100_length_6076_cov_76.3967, whole genome shotgun sequence
+NZ_MVIJ01000100.1 Mycobacterium scrofulaceum strain DSM 43992 NODE_100_length_7206_cov_39.9543, whole genome shotgun sequence
+NZ_MVIL01000930.1 Mycobacterium timonense strain CCUG 56329 NODE_1000_length_315_cov_0.953782, whole genome shotgun sequence
+NZ_MWQA01000024.1 Mycobacterium persicum strain 12MK Contig_m1_125_len:2238, whole genome shotgun sequence
+NZ_LQOY01000001.1 Mycobacterium gordonae strain DSM 44160 contig_1, whole genome shotgun sequence
+NZ_LQPJ01000001.1 Mycobacterium palustre strain DSM 44572 contig_1, whole genome shotgun sequence
+NZ_LQPM01000001.1 Mycobacterium paraense strain IEC26 contig_1, whole genome shotgun sequence
+NZ_LQPR01000001.1 Mycobacterium saskatchewanense strain DSM 44616 contig_1, whole genome shotgun sequence
+NZ_LQOK01000001.1 Mycobacterium bohemicum strain DSM 44277 contig_1, whole genome shotgun sequence
+NZ_LQOX01000001.1 Mycobacterium gastri strain DSM 43505 contig_1, whole genome shotgun sequence
+NZ_LQOW01000001.1 Mycobacterium fragae strain DSM 45731 contig_1, whole genome shotgun sequence
+NZ_LQPT01000001.1 Mycobacterium sherrisii strain ATCC BAA-832 contig_1, whole genome shotgun sequence
+NZ_LQPY01000001.1 Mycobacterium triplex strain DSM 44626 contig_1, whole genome shotgun sequence
+NZ_NCXP01000100.1 Mycobacterium decipiens strain TBL 1200985 NODE_100_length_894_cov_19.0539, whole genome shotgun sequence
+NZ_NCXM01000100.1 Mycobacterium vulneris strain DSM 45247 NODE_100_length_732_cov_101.728, whole genome shotgun sequence
+NZ_LQPW01000001.1 Mycobacterium szulgai strain DSM 44166 contig_1, whole genome shotgun sequence
+NZ_CP020809.1 Mycobacterium dioxanotrophicus strain PH-06 chromosome, complete genome
+NZ_NKCO01000001.1 Mycobacterium neumannii strain CECT 8766 NODE_1, whole genome shotgun sequence
+NZ_CP023147.1 Mycobacterium marseillense strain FLAC0026 chromosome, complete genome
+NZ_AP018164.1 Mycobacterium shigaense strain JCM 32072 chromosome, complete genome
+NZ_NVQE01000001.1 Mycobacterium neglectum strain CECT 8778 NODE_1, whole genome shotgun sequence
+NZ_NVQF01000001.1 Mycobacterium palauense strain CECT 8779 NODE_1, whole genome shotgun sequence
+NZ_PDKV01000010.1 Mycobacterium celatum strain NCTC 12882 NODE_10_length_140710_cov_72.6232, whole genome shotgun sequence
+NZ_BFCH01000001.1 Mycobacterium montefiorense strain BS, whole genome shotgun sequence
+NZ_CP029543.1 Mycobacterium leprae strain MRHRU-235-G chromosome, complete genome
+NZ_QJUA01000100.1 Mycobacterium kyogaense strain NCTC 11659 NODE_100_length_1402_cov_26.7161, whole genome shotgun sequence
+NZ_QAYL01000053.1 Mycobacterium uberis strain Jura NODE_167, whole genome shotgun sequence
+NZ_AP018410.1 Mycobacterium pseudoshottsii JCM 15466 chromosome, complete genome
+NZ_CP025546.1 Mycobacterium paragordonae strain 49061 chromosome, complete genome
+NZ_CP033688.1 Mycobacterium avium subsp. paratuberculosis strain Telford chromosome, complete genome
+NZ_RWJZ01000010.1 Mycolicibacterium peregrinum strain 131_1 contig_10_length_181843_depth_0.87x, whole genome shotgun sequence
+NZ_VMQV01000100.1 Mycobacterium helveticum strain 17-773 NODE_100_length_18514_cov_91.110918, whole genome shotgun sequence
+NZ_CP043474.1 Mycobacterium grossiae strain DSM 104744 chromosome, complete genome
+NZ_CP046507.1 Mycobacterium avium subsp. avium strain DSM 44156 chromosome, complete genome
+NZ_BLKW01000001.1 Mycobacterium botniense strain JCM 17322 sequence1, whole genome shotgun sequence
+NZ_BLKZ01000001.1 Mycobacterium bourgelatii strain JCM 30725 sequence1, whole genome shotgun sequence
+NZ_AP022562.1 Mycobacterium novum strain JCM 6391 chromosome, complete genome
+NZ_AP022568.1 Mycobacterium simiae strain JCM 12377 chromosome, complete genome
+NZ_AP022569.1 Mycobacterium cookii strain JCM 12404 chromosome, complete genome
+NZ_AP022572.1 Mycobacterium shottsii strain JCM 12657 chromosome, complete genome
+NZ_AP022606.1 Mycobacterium branderi strain JCM 12687 chromosome
+NZ_AP022575.1 Mycobacterium shinjukuense strain JCM 14233 chromosome, complete genome
+NZ_AP022613.1 Mycobacterium conspicuum strain JCM 14738 chromosome
+NZ_AP022576.1 Mycobacterium florentinum strain JCM 14740 chromosome, complete genome
+NZ_AP022614.1 Mycobacterium parmense strain JCM 14742 chromosome
+NZ_AP022615.1 Mycobacterium heidelbergense strain JCM 14842 chromosome
+NZ_AP022581.1 Mycobacterium lacus strain JCM 15657 chromosome, complete genome
+NZ_AP022582.1 Mycobacterium seoulense strain JCM 16018 chromosome, complete genome
+NZ_AP022583.1 Mycobacterium noviomagense strain JCM 16367 chromosome, complete genome
+NZ_AP022619.1 Mycobacterium paraseoulense strain JCM 16952 chromosome
+NZ_AP022587.1 Mycobacterium stomatepiae strain JCM 17783 chromosome, complete genome
+NZ_AP022590.1 Mycobacterium mantenii strain JCM 18113 chromosome, complete genome
+NZ_AP022594.1 Mycobacterium koreense strain JCM 19956 chromosome, complete genome
+NZ_CP038799.1 Mycobacterium frederiksbergense strain LB 501T chromosome
+NZ_CP059165.1 Mycobacterium vicinigordonae strain 24 chromosome, complete genome
+NZ_CP045081.1 Mycobacterium kubicae strain NJH_MKUB1 chromosome, complete genome
+NZ_JACDQZ010000010.1 Mycobacteroides abscessus subsp. bolletii strain 13116-16 NODE_10_length_156033_cov_31.9076, whole genome shotgun sequence
+NZ_CP058277.1 Mycobacterium marinum strain MMA1 chromosome, complete genome
+NZ_AP024251.1 Mycobacterium paraintracellulare strain M011 chromosome, complete genome
+NZ_JADEYM010000010.1 Mycobacteroides abscessus subsp. massiliense strain MAB2 NODE_10_length_191720_cov_28.493178, whole genome shotgun sequence
+NZ_AP024310.1 Mycobacterium heckeshornense strain JMUB5695 chromosome, complete genome
+NZ_JADWWZ010000001.1 Mycobacteroides abscessus subsp. massiliense strain GD16 GD16_contig_1, whole genome shotgun sequence
+NZ_JADLKZ010000001.1 Mycobacteroides abscessus subsp. bolletii strain GD37 GD37_1, whole genome shotgun sequence
+NZ_CP065279.1 Mycobacteroides abscessus subsp. abscessus strain GD43A chromosome, complete genome
+NZ_CP046600.1 Mycobacterium spongiae strain FSD4b-SM chromosome, complete genome
+NZ_CP080332.1 Mycobacterium diernhoferi strain ATCC 19340 chromosome, complete genome
+NZ_CP080333.1 Mycobacterium pallens strain JCM 16370 chromosome, complete genome
+NZ_CP080998.1 Mycobacterium holsaticum strain JCM 12374 chromosome, complete genome
+NZ_CP080999.1 Mycobacterium malmoense strain ATCC 29571 chromosome, complete genome
+NZ_CP081000.1 Mycobacterium senegalense strain ATCC 35796 chromosome, complete genome
+NZ_CP085200.1 Mycobacterium ulcerans strain JKD8049 chromosome, complete genome
+NZ_CP085918.1 Mycobacteroides abscessus subsp. abscessus strain FDAARGOS_1605 chromosome, complete genome
+NZ_CP089224.1 Mycobacterium ostraviense strain FDAARGOS_1613 chromosome, complete genome
+NZ_CP092362.1 Mycobacterium crocinum strain JCM 16369 chromosome, complete genome
+NZ_CP092364.1 Mycobacterium goodii strain ATCC 700504 chromosome, complete genome
+NZ_CP092427.1 Mycobacterium rufum strain JCM 16372 chromosome, complete genome
+NZ_CP092430.1 Mycobacterium virginiense strain DSM 100883 chromosome, complete genome
+NZ_CP092488.1 Mycobacterium paraterrae strain DSM 45127 chromosome, complete genome
+NZ_LT546234.1 Mycobacterium interjectum strain ATCC 51457T, whole genome shotgun sequence
+NZ_FUEZ01000004.1 Mycobacterium numidiamassiliense strain AB215, whole genome shotgun sequence
+NZ_LT721901.1 Mycobacterium rhizamassiliense strain AB57, whole genome shotgun sequence
+NZ_LT717690.1 Mycobacterium terramassiliense strain AB308, whole genome shotgun sequence
+NZ_FXEG02000008.1 Mycobacterium ahvazicum strain AFP003, whole genome shotgun sequence
+NZ_OCVX01000001.1 Mycobacterium simulans strain FI-09026, whole genome shotgun sequence
+NZ_LR130759.1 Mycobacterium basiliense isolate 901379 chromosome I, complete sequence
+NZ_UEGW01000003.1 Mycobacterium shimoidei strain P7336, whole genome shotgun sequence
+NZ_UATA01000021.1 Mycobacterium xenopi strain NCTC10042, whole genome shotgun sequence
+NZ_UPHQ01000360.1 Mycobacterium innocens strain MK13 isolate MK13, whole genome shotgun sequence
+NZ_UPHP01000195.1 Mycobacterium attenuatum strain MK136 isolate MK136, whole genome shotgun sequence
+NZ_UPHU01000002.1 Mycobacterium pseudokansasii strain MK142, whole genome shotgun sequence
+NZ_CAJMWN010000001.1 Mycobacterium riyadhense isolate MR-226, whole genome shotgun sequence
+HG964481.1 Mycobacterium farcinogenes DSM 43637 genomic scaffold, SCAFFOLD00001, whole genome shotgun sequence
+CP007220.1 Mycobacterium chelonae CCUG 47445, complete genome
+NZ_CP011530.1 Mycobacteroides immunogenum strain CCUG 47286 chromosome, complete genome
+NZ_MLIK01000002.1 Mycobacteroides franklinii strain 1559 NODE_10_length_1329_cov_78.6988, whole genome shotgun sequence
+NZ_CP024633.1 Mycobacteroides salmoniphilum strain DSM 43276 chromosome
